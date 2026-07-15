@@ -7,9 +7,10 @@ Aqui estão reunidos todos os projetos que desenvolvi durante minha graduação 
 ---
 ## Índice
 
-🎓 [Bacharelado em Ciência da Computação]()
-📚 [Cursos e Bootcamps]()
-💡 [Projetos Pessoais]()
+- 🎓 [Bacharelado em Ciência da Computação](#-bacharelado-em-ciência-da-computação)
+- 📚 [Cursos e Bootcamps](#-cursos-e-bootcamps)
+- 💡 [Projetos Pessoais](#-projetos-pessoais)
+- 🏆 [Certificados](#-certificados)
 
 ---
 
