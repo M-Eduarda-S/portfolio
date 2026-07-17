@@ -37,7 +37,7 @@ Este repositório reúne todos os projetos desenvolvidos durante minha graduaç�
 | Curso | Ano | Instituição | Tecnologias | Situação | Certificado | Projeto |
 |------ |---- |------------ |------------ |--------- |------------ |-------- |
 | Bootcamp Universia - Primeiros Passos em Power BI | 2026 | Santander | Power BI | Em andamento | Em andamento | Ainda não iniciado. |
-| Imersão Arquitetura Web com IA | 2026 | Alura | HTML • CSS • JavaScript • Python • Google Antigravity | Em andamento | Em andamento | [Repositório]() |
+| Imersão Arquitetura Web com IA | 2026 | Alura | HTML • CSS • JavaScript • Python • FastAPI • Uvicorn • Google Antigravity | Concluído | [Certificado](./certificados/alura/Certificado%20da%20imersão%20arquitetura%20web%20com%20IA.pdf) | [Repositório](https://github.com/M-Eduarda-S/imersao-arquitetura-web-com-ia) |
 | IA na Prática | 2026 | SCTEC | - | Em andamento | Em andamento | Não possui projeto prático. |
 | Curso de Godot game engine | 2024 | UNIVALI | C# • Godot Engine | Concluído | [Certificado](./certificados/univali/Certificado%20do%20curso%20de%20Godot%20Game%20Engine.pdf) | Projeto desenvolvido durante o curso, não publicado no GitHub. |
 
@@ -66,9 +66,5 @@ Os certificados dos cursos e eventos estão organizados na pasta abaixo.
 
   <a href="LINK_PORTFOLIO">
     <img src="https://img.shields.io/badge/Portfolio-5C2D91?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-
-  <a href="mailto:m.eduarda.santos83@gmail.com?subject=Contato%20via%20GitHub">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
